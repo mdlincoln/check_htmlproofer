@@ -5,4 +5,4 @@ date:   2017-03-22 08:05:13 -0700
 categories: jekyll update
 ---
 
-[Bad Link Fixed!](http://matthewlincoln.net/)
+[Bad Link Here](http://matthewlincoln.net/badlink)
